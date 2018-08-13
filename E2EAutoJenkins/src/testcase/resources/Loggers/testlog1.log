@@ -1,0 +1,43 @@
+2018-08-13 17:55:13,709 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-13 17:55:14,590 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-13 17:55:14,880 [main] INFO LinkedinTest1 - Enter the password
+2018-08-13 17:55:23,730 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-13 17:55:23,730 [main] INFO EuroStarTest1 - Launched Euro Star Application!!
+2018-08-13 17:55:23,730 [main] INFO EuroStarTest1 - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-08-13 17:55:23,736 [main] INFO EuroStarTest1 - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-08-13 17:55:24,316 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 761.png
+2018-08-13 17:55:24,471 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-13 18:10:00,391 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-13 18:10:00,685 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-13 18:10:00,795 [main] INFO LinkedinTest1 - Enter the password
+2018-08-13 18:10:13,276 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-13 18:10:13,276 [main] INFO EuroStarTest1 - Launched Euro Star Application!!
+2018-08-13 18:10:13,278 [main] INFO EuroStarTest1 - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-08-13 18:10:13,299 [main] INFO EuroStarTest1 - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-08-13 18:10:13,899 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 327.png
+2018-08-13 18:10:27,630 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-13 18:13:32,060 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-13 18:13:32,481 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-13 18:13:32,696 [main] INFO LinkedinTest1 - Enter the password
+2018-08-13 18:13:42,024 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-13 18:13:42,024 [main] INFO EuroStarTest1 - Launched Euro Star Application!!
+2018-08-13 18:13:42,027 [main] INFO EuroStarTest1 - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-08-13 18:13:42,043 [main] INFO EuroStarTest1 - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-08-13 18:13:42,615 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 070.png
+2018-08-13 18:13:42,681 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-13 18:14:45,945 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-13 18:14:46,372 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-13 18:14:46,622 [main] INFO LinkedinTest1 - Enter the password
+2018-08-13 18:14:55,460 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-13 18:14:55,973 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 508.png
+2018-08-13 18:15:06,575 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 112.png
+2018-08-13 18:15:17,158 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 631.png
+2018-08-13 18:15:27,596 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 196.png
+2018-08-13 18:15:38,146 [main] ERROR EuroStarTest1 - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 673.png
+2018-08-13 18:20:48,998 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-13 18:20:49,365 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-13 18:20:49,510 [main] INFO LinkedinTest1 - Enter the password
+2018-08-13 18:20:57,460 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-13 18:20:57,462 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-13 18:20:57,988 [main] INFO EuroStarTest1 - Result Pass!!
+2018-08-13 18:21:00,313 [main] INFO EuroStarTest1 - Close the browser!!

@@ -1,0 +1,9 @@
+2018-08-13 17:49:50,885 - LinkedinTest1 -INFO - Click on Login link!!
+2018-08-13 17:49:51,136 - LinkedinTest1 -INFO - Enter the email id
+2018-08-13 17:49:51,291 - LinkedinTest1 -INFO - Enter the password
+2018-08-13 17:50:29,211 - LinkedinTest1 -INFO - Click on submit button
+2018-08-13 17:50:29,211 - EuroStarTest1 -INFO - Launched Euro Star Application!!
+2018-08-13 17:50:29,214 - EuroStarTest1 -INFO - Expected Title: EuroSTAR Huddle - Online Software Testing Community!!
+2018-08-13 17:50:29,222 - EuroStarTest1 -INFO - Actual Title: EuroSTAR Huddle - Online Software Testing Community
+2018-08-13 17:50:29,743 - EuroStarTest1 -ERROR - Error screshot location: C:\MyWorkspace\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_13 248.png
+2018-08-13 17:50:30,313 - EuroStarTest1 -INFO - Close the browser!!
