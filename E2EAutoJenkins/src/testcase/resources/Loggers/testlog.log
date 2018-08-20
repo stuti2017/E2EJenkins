@@ -96,3 +96,45 @@ Session ID: c1155953ce274146f557c0035aef8794
 2018-08-20 18:47:18,395 - EuroStarTest1 -ERROR - Error screshot location: C:\Users\u6016926\git\E2EJenkins\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_20 910.png
 2018-08-20 18:47:28,993 - EuroStarTest1 -ERROR - Error screshot location: C:\Users\u6016926\git\E2EJenkins\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_20 435.png
 2018-08-20 18:47:39,466 - EuroStarTest1 -ERROR - Error screshot location: C:\Users\u6016926\git\E2EJenkins\E2EAutoJenkins//Test-ScreenShots//webTitle_2018_08_20 056.png
+2018-08-20 19:10:06,619 - LinkedinTest1 -INFO - Click on Login link!!
+2018-08-20 19:10:06,887 - LinkedinTest1 -INFO - Enter the email id
+2018-08-20 19:10:07,032 - LinkedinTest1 -INFO - Enter the password
+2018-08-20 19:10:13,162 - LinkedinTest1 -INFO - Click on submit button
+2018-08-20 19:10:13,162 - EuroStarTest1 -INFO - Launched Euro Star Application
+2018-08-20 19:10:13,788 - EuroStarTest1 -INFO - Result Pass!!
+2018-08-20 19:10:37,196 - EuroStarTest1 -INFO - Close the browser!!
+2018-08-20 19:14:07,518 - LinkedinTest1 -INFO - Click on Login link!!
+2018-08-20 19:14:08,108 - LinkedinTest1 -INFO - Enter the email id
+2018-08-20 19:14:08,266 - LinkedinTest1 -INFO - Enter the password
+2018-08-20 19:14:16,900 - LinkedinTest1 -INFO - Click on submit button
+2018-08-20 19:14:16,903 - EuroStarTest1 -INFO - Launched Euro Star Application
+2018-08-20 19:14:17,474 - EuroStarTest1 -INFO - Result Pass!!
+2018-08-20 19:14:17,566 - EuroStarTest1 -INFO - Close the browser!!
+2018-08-20 19:15:29,083 - LinkedinTest1 -INFO - Click on Login link!!
+2018-08-20 19:15:29,528 - LinkedinTest1 -INFO - Enter the email id
+2018-08-20 19:15:29,696 - LinkedinTest1 -INFO - Enter the password
+2018-08-20 19:15:37,826 - LinkedinTest1 -INFO - Click on submit button
+2018-08-20 19:15:37,826 - EuroStarTest1 -INFO - Launched Euro Star Application
+2018-08-20 19:15:38,474 - EuroStarTest1 -INFO - Result Pass!!
+2018-08-20 19:16:01,708 - EuroStarTest1 -INFO - Close the browser!!
+2018-08-20 19:19:56,879 - LinkedinTest1 -INFO - Click on Login link!!
+2018-08-20 19:19:57,073 - LinkedinTest1 -INFO - Enter the email id
+2018-08-20 19:19:57,210 - LinkedinTest1 -INFO - Enter the password
+2018-08-20 19:20:05,057 - LinkedinTest1 -INFO - Click on submit button
+2018-08-20 19:20:05,057 - EuroStarTest1 -INFO - Launched Euro Star Application
+2018-08-20 19:20:05,573 - EuroStarTest1 -INFO - Result Pass!!
+2018-08-20 19:20:39,021 - EuroStarTest1 -INFO - Close the browser!!
+2018-08-20 19:22:38,837 - LinkedinTest1 -INFO - Click on Login link!!
+2018-08-20 19:22:39,095 - LinkedinTest1 -INFO - Enter the email id
+2018-08-20 19:22:39,219 - LinkedinTest1 -INFO - Enter the password
+2018-08-20 19:22:46,924 - LinkedinTest1 -INFO - Click on submit button
+2018-08-20 19:22:46,924 - EuroStarTest1 -INFO - Launched Euro Star Application
+2018-08-20 19:22:47,455 - EuroStarTest1 -INFO - Result Pass!!
+2018-08-20 19:22:47,535 - EuroStarTest1 -INFO - Close the browser!!
+2018-08-20 19:23:42,975 - LinkedinTest1 -INFO - Click on Login link!!
+2018-08-20 19:23:43,306 - LinkedinTest1 -INFO - Enter the email id
+2018-08-20 19:23:43,551 - LinkedinTest1 -INFO - Enter the password
+2018-08-20 19:23:51,663 - LinkedinTest1 -INFO - Click on submit button
+2018-08-20 19:23:51,665 - EuroStarTest1 -INFO - Launched Euro Star Application
+2018-08-20 19:23:52,191 - EuroStarTest1 -INFO - Result Pass!!
+2018-08-20 19:23:54,531 - EuroStarTest1 -INFO - Close the browser!!

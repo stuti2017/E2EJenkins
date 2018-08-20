@@ -37,9 +37,11 @@ public class EuroStarLoginPage {
 	 *
 	 * @param webDriver
 	 *            represents an initialized Selenium WebDriver instance
+	 * @throws InterruptedException 
 	 */
 
-	public void loginToEuroStarAccount() {
+	public void loginToEuroStarAccount() throws InterruptedException {
+		Thread.sleep(5000);
 		loginLink.click();
 		logger.info("Click on Login link!!");
 		emailTextField.sendKeys("stuti.chourasia@gmail.com");

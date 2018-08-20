@@ -29,7 +29,7 @@ public class TC_002 extends Base{
 
 	
 	@Test
-	public void login() {
+	public void login() throws InterruptedException {
 		System.out.println("*******************");
 		System.out.println("Launching Eurostar Application in Chrome browser");
 

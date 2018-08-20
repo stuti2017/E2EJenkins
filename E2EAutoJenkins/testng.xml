@@ -4,9 +4,6 @@
   <test name="Test">
     <classes>
       <class name="testcase.testscript.TC_002"/>
-      <class name="testcase.testscript.TC_001"/>
-      <class name="testcase.testscript.TC_003"/>
-      <class name="testcase.testscript.EuroStarTest1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
