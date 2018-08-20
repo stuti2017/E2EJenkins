@@ -7,7 +7,6 @@
       <class name="testcase.testscript.TC_001"/>
       <class name="testcase.testscript.TC_003"/>
       <class name="testcase.testscript.EuroStarTest1"/>
-      <class name="testcase.testscript.EuroStarTest2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

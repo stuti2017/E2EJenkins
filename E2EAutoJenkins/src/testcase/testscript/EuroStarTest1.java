@@ -43,7 +43,7 @@ public class EuroStarTest1 extends Base {
 			e.getMessage();
 			logger.error(e);
 		}
-		String expectedTitle = "EuroSTAR Huddle - Online Software Testing Community!!";
+		String expectedTitle = "EuroSTAR Huddle - Online Software Testing Community";
 		logger.info("Expected Title: " + expectedTitle);
 
 		String actualtitle = driver.getTitle();
