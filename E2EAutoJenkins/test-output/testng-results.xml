@@ -1,44 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16940" started-at="2018-08-20T13:53:37Z" finished-at="2018-08-20T13:53:54Z">
+  <suite name="example suite 1" duration-ms="35" started-at="2018-08-20T15:19:15Z" finished-at="2018-08-20T15:19:15Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="16940" started-at="2018-08-20T13:53:37Z" finished-at="2018-08-20T13:53:54Z">
-      <class name="testcase.testscript.TC_002">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:testcase.testscript.TC_002@e720b71]" name="initialize" is-config="true" duration-ms="13651" started-at="2018-08-20T13:53:23Z" finished-at="2018-08-20T13:53:37Z">
+    <test name="Regression suite 1" duration-ms="35" started-at="2018-08-20T15:19:15Z" finished-at="2018-08-20T15:19:15Z">
+      <class name="testcase.testscript.Test1">
+        <test-method status="PASS" signature="addLocationTestCase()[pri:0, instance:testcase.testscript.Test1@4abdb505]" name="addLocationTestCase" duration-ms="8" started-at="2018-08-20T15:19:15Z" finished-at="2018-08-20T15:19:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="M1()[pri:0, instance:testcase.testscript.TC_002@e720b71]" name="M1" is-config="true" duration-ms="136" started-at="2018-08-20T13:53:37Z" finished-at="2018-08-20T13:53:37Z">
+        </test-method> <!-- addLocationTestCase -->
+      </class> <!-- testcase.testscript.Test1 -->
+      <class name="testcase.testscript.Test2">
+        <test-method status="PASS" signature="editLocationTestCase()[pri:0, instance:testcase.testscript.Test2@7ce6a65d]" name="editLocationTestCase" duration-ms="1" started-at="2018-08-20T15:19:15Z" finished-at="2018-08-20T15:19:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- M1 -->
-        <test-method status="PASS" signature="login()[pri:0, instance:testcase.testscript.TC_002@e720b71]" name="login" duration-ms="13930" started-at="2018-08-20T13:53:37Z" finished-at="2018-08-20T13:53:51Z">
+        </test-method> <!-- editLocationTestCase -->
+      </class> <!-- testcase.testscript.Test2 -->
+      <class name="testcase.testscript.Test3">
+        <test-method status="PASS" signature="addUserWithValidData()[pri:0, instance:testcase.testscript.Test3@1500955a]" name="addUserWithValidData" duration-ms="1" started-at="2018-08-20T15:19:15Z" finished-at="2018-08-20T15:19:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testcase.testscript.TC_002@e720b71]" name="getResult" is-config="true" duration-ms="524" started-at="2018-08-20T13:53:51Z" finished-at="2018-08-20T13:53:52Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=login status=SUCCESS method=TC_002.login()[pri:0, instance:testcase.testscript.TC_002@e720b71] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcase.testscript.TC_002@e720b71]" name="afterTest" is-config="true" duration-ms="2339" started-at="2018-08-20T13:53:52Z" finished-at="2018-08-20T13:53:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcase.testscript.TC_002@e720b71]" name="TeardownTest" is-config="true" duration-ms="750" started-at="2018-08-20T13:53:54Z" finished-at="2018-08-20T13:53:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TeardownTest -->
-      </class> <!-- testcase.testscript.TC_002 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- addUserWithValidData -->
+      </class> <!-- testcase.testscript.Test3 -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
 </testng-results>

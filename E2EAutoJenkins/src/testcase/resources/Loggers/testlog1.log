@@ -138,3 +138,55 @@ Session ID: c1155953ce274146f557c0035aef8794
 2018-08-20 19:23:51,665 [main] INFO EuroStarTest1 - Launched Euro Star Application
 2018-08-20 19:23:52,191 [main] INFO EuroStarTest1 - Result Pass!!
 2018-08-20 19:23:54,531 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 19:58:42,759 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 19:58:43,007 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-20 19:58:43,149 [main] INFO LinkedinTest1 - Enter the password
+2018-08-20 19:58:51,446 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-20 19:58:51,470 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 19:58:52,001 [main] INFO EuroStarTest1 - Result Pass!!
+2018-08-20 19:59:09,925 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 20:09:18,048 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 20:09:18,339 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-20 20:09:18,440 [main] INFO LinkedinTest1 - Enter the password
+2018-08-20 20:09:26,253 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-20 20:09:26,254 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 20:09:26,817 [main] INFO EuroStarTest1 - Result Pass!!
+2018-08-20 20:09:44,728 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 20:12:10,246 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 20:12:10,534 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-20 20:12:10,671 [main] INFO LinkedinTest1 - Enter the password
+2018-08-20 20:12:17,541 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-20 20:12:17,542 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 20:12:18,084 [main] INFO EuroStarTest1 - Result Pass!!
+2018-08-20 20:12:35,740 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 20:17:24,180 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 20:17:24,447 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-20 20:17:24,555 [main] INFO LinkedinTest1 - Enter the password
+2018-08-20 20:17:34,202 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-20 20:17:34,202 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 20:17:34,903 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 20:18:20,561 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 20:18:20,803 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-20 20:18:20,914 [main] INFO LinkedinTest1 - Enter the password
+2018-08-20 20:18:28,924 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-20 20:18:28,924 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 20:18:31,552 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 20:19:58,949 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 20:19:59,240 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-20 20:19:59,352 [main] INFO LinkedinTest1 - Enter the password
+2018-08-20 20:20:07,240 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-20 20:20:07,241 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 20:20:07,890 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 20:31:09,644 [main] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 20:31:09,954 [main] INFO LinkedinTest1 - Enter the email id
+2018-08-20 20:31:10,060 [main] INFO LinkedinTest1 - Enter the password
+2018-08-20 20:31:17,172 [main] INFO LinkedinTest1 - Click on submit button
+2018-08-20 20:31:17,173 [main] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 20:31:17,717 [main] INFO EuroStarTest1 - Result Pass!!
+2018-08-20 20:31:50,968 [main] INFO EuroStarTest1 - Close the browser!!
+2018-08-20 20:36:38,447 [TestNG-tests-1] INFO LinkedinTest1 - Click on Login link!!
+2018-08-20 20:36:38,729 [TestNG-tests-1] INFO LinkedinTest1 - Enter the email id
+2018-08-20 20:36:38,848 [TestNG-tests-1] INFO LinkedinTest1 - Enter the password
+2018-08-20 20:36:46,265 [TestNG-tests-1] INFO LinkedinTest1 - Click on submit button
+2018-08-20 20:36:46,266 [TestNG-tests-1] INFO EuroStarTest1 - Launched Euro Star Application
+2018-08-20 20:36:46,917 [TestNG-tests-1] INFO EuroStarTest1 - Close the browser!!
