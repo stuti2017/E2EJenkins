@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Gmail Suite]" parallel="tests">
-  <test thread-count="1" name="Myntra(failed)" parallel="tests">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcase.testscript.TC_002">
+      <class name="testcase.testscript.T1">
         <methods>
-          <include name="login"/>
-          <include name="TeardownTest"/>
-          <include name="afterTest"/>
-          <include name="getResult"/>
-          <include name="initialize"/>
-          <include name="M1"/>
+          <include name="verifyHomepageTitle"/>
         </methods>
-      </class> <!-- testcase.testscript.TC_002 -->
+      </class> <!-- testcase.testscript.T1 -->
     </classes>
-  </test> <!-- Myntra(failed) -->
-</suite> <!-- Failed suite [Gmail Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

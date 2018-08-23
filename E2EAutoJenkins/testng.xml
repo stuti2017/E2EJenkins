@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="example suite 1" verbose="1" >
-  <test name="Regression suite 1" >
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
     <classes>
-      <class name="testcase.testscript.Test1"/>
-      <class name="testcase.testscript.Test2"/>
-      <class name="testcase.testscript.Test3"/>
+      <class name="testcode.TestFirst_1"/>
+      <class name="testcode.T1"/>
+      <class name="testcode.TestNG_1"/>
+      <class name="testcode.TestNG_2"/>
     </classes>
- </test>
-</suite>
-
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
